@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "393120947759",
+    "project_id": "banner-maker-6a521",
+    "storage_bucket": "banner-maker-6a521.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393120947759:android:cf68897ac66dcd46bfb0da",
+        "android_client_info": {
+          "package_name": "com.infiapp.postermaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393120947759-96k9nphum2bmdqpu8svd08o8e2bqgmo8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.infiapp.postermaker",
+            "certificate_hash": "6c40da256bb199ec67e6cafcb857a028c5482b27"
+          }
+        },
+        {
+          "client_id": "393120947759-je9sk91qcm51029j89nd81un9h985n3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJhhGaYVWgot8md3JfRQtARQje35dcrp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393120947759-je9sk91qcm51029j89nd81un9h985n3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

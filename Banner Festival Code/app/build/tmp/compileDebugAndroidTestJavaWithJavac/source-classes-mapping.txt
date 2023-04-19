@@ -1,0 +1,4 @@
+com/example/newfestivalpost/test/BuildConfig.java
+ com.example.newfestivalpost.test.BuildConfig
+com/example/newfestivalpost/ExampleInstrumentedTest.java
+ com.example.newfestivalpost.ExampleInstrumentedTest

@@ -1,0 +1,2 @@
+com/example/newfestivalpost/ExampleUnitTest.java
+ com.example.newfestivalpost.ExampleUnitTest
